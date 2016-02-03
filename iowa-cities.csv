@@ -1,0 +1,948 @@
+City,County,Population,Size
+Ackley,Hardin,1589,2.45
+Ackworth,Warren,83,0.29
+Adair,Adair,781,2.2
+Adel,Dallas,3682,3.27
+Afton,Union,845,0.99
+Agency,Wapello,638,0.65
+Ainsworth,Washington,567,0.38
+Akron,Plymouth,1486,1.22
+Albert City,Buena Vista,699,0.54
+Albia,Monroe,3766,3.19
+Albion,Marshall,505,0.6
+Alburnett,Linn,673,0.82
+Alden,Hardin,787,1.71
+Alexander,Franklin,175,4.27
+Algona,Kossuth,5560,4.49
+Alleman,Polk,432,2.7
+Allerton,Wayne,501,1.14
+Allison,Butler,1029,2.93
+Alta,Buena Vista,1883,1.07
+Alta Vista,Chickasaw,266,0.76
+Alton,Sioux,1216,1.85
+Altoona,Polk,14541,9.35
+Alvord,Lyon,196,0.28
+Ames,Story,58965,24.21
+Anamosa,Jones,5533,2.6
+Andover,Clinton,103,0.19
+Andrew,Jackson,434,0.27
+Anita,Cass,972,1.7
+Ankeny,Polk,45582,29.33
+Anthon,Woodbury,565,0.71
+Aplington,Butler,1128,0.83
+Arcadia,Carroll,484,0.98
+Archer,O'Brien,131,0.09
+Aredale,Butler,74,0.99
+Arion,Crawford,108,0.47
+Arispe,Union,100,0.52
+Arlington,Fayette,429,1.05
+Armstrong,Emmet,926,0.88
+Arnolds Park,Dickinson,1126,1.57
+Arthur,Ida,206,0.15
+Asbury,Dubuque,4170,2.66
+Ashton,Osceola,458,1.01
+Aspinwall,Crawford,40,0.18
+Atalissa,Muscatine,311,0.14
+Atkins,Benton,1670,1.09
+Atlantic,Cass,7112,8.32
+Auburn,Sac,322,0.5
+Audubon,Audubon,2176,1.88
+Aurelia,Cherokee,1036,1.04
+Aurora,Buchanan,185,0.57
+Avoca,Pottawattamie,1506,2.13
+Ayrshire,Palo Alto,143,0.21
+Badger,Webster,561,1.09
+Bagley,Guthrie,303,0.31
+Baldwin,Jackson,109,0.36
+Balltown,Dubuque,68,0.09
+Bancroft,Kossuth,732,0.55
+Bankston,Dubuque,25,0.29
+Barnes City,Mahaska,176,0.59
+Barnum,Webster,191,0.37
+Bassett,Chickasaw,66,0.37
+Batavia,Jefferson,499,0.6
+Battle Creek,Ida,713,0.5
+Baxter,Jasper,1101,0.65
+Bayard,Guthrie,471,0.46
+Beacon,Mahaska,494,1.0
+Beaconsfield,Ringgold,15,0.72
+Beaman,Grundy,191,0.19
+Beaver,Boone,48,0.25
+Bedford,Taylor,1440,1.6
+Belle Plaine,Benton,2534,3.22
+Bellevue,Jackson,2191,1.34
+Belmond,Wright,2376,2.85
+Bennett,Cedar,405,0.2
+Benton,Ringgold,41,0.64
+Berkley,Boone,32,0.21
+Bernard,Dubuque,112,0.11
+Bertram,Linn,294,1.68
+Bettendorf,Scott,33217,21.22
+Bevington,Madison,63,0.45
+Birmingham,Van Buren,448,1.06
+Blairsburg,Hamilton,215,0.65
+Blairstown,Benton,692,0.52
+Blakesburg,Wapello,296,0.27
+Blanchard,Page,38,0.23
+Blencoe,Monona,224,0.76
+Blockton,Taylor,192,0.65
+Bloomfield,Davis,2640,2.25
+Blue Grass,Scott,1452,2.89
+Bode,Humboldt,302,0.41
+Bonaparte,Van Buren,433,0.37
+Bondurant,Polk,3860,8.38
+Boone,Boone,12661,9.02
+Bouton,Dallas,129,0.14
+Boxholm,Boone,195,1.02
+Boyden,Sioux,707,0.75
+Braddyville,Page,159,0.53
+Bradgate,Humboldt,86,0.35
+Brandon,Buchanan,309,0.32
+Brayton,Audubon,128,0.62
+Breda,Carroll,483,0.74
+Bridgewater,Adair,182,0.29
+Brighton,Washington,652,0.71
+Bristow,Butler,160,0.94
+Britt,Hancock,2069,1.26
+Bronson,Woodbury,322,0.31
+Brooklyn,Poweshiek,1468,1.23
+Brunsville,Plymouth,151,0.24
+Buck Grove,Crawford,43,0.36
+Buckeye,Hardin,108,1.0
+Buffalo,Scott,1270,6.45
+Buffalo Center,Winnebago,905,1.07
+Burlington,Des Moines,25663,14.48
+Burt,Kossuth,533,0.44
+Bussey,Marion,422,0.33
+Calamus,Clinton,439,0.48
+Callender,Webster,376,0.52
+Calmar,Winneshiek,978,1.07
+Calumet,O'Brien,170,0.27
+Camanche,Clinton,4448,8.68
+Cambridge,Story,827,1.1
+Cantril,Van Buren,222,0.51
+Carbon,Adams,34,0.71
+Carlisle,Warren,3876,5.56
+Carpenter,Mitchell,109,0.16
+Carroll,Carroll,10103,5.69
+Carson,Pottawattamie,812,0.71
+Carter Lake,Pottawattamie,3785,1.87
+Cascade,Dubuque,2159,1.87
+Casey,Guthrie,426,0.74
+Castalia,Winneshiek,173,0.58
+Castana,Monona,147,0.93
+Cedar Falls,Black Hawk,39260,28.75
+Cedar Rapids,Linn,126326,70.8
+Center Junction,Jones,111,0.55
+Center Point,Linn,2421,2.6
+Centerville,Appanoose,5528,4.86
+Central City,Linn,1257,0.95
+Centralia,Dubuque,134,0.58
+Chariton,Lucas,4321,3.82
+Charles City,Floyd,7652,6.22
+Charlotte,Clinton,394,0.58
+Charter Oak,Crawford,502,0.48
+Chatsworth,Sioux,79,0.49
+Chelsea,Tama,267,1.01
+Cherokee,Cherokee,5253,6.43
+Chester,Howard,127,1.34
+Chillicothe,Wapello,97,0.23
+Churdan,Greene,386,2.11
+Cincinnati,Appanoose,357,1.74
+Clare,Webster,146,0.51
+Clarence,Cedar,974,0.68
+Clarinda,Page,5572,5.19
+Clarion,Wright,2850,3.26
+Clarksville,Butler,1439,1.33
+Clayton,Clayton,43,0.49
+Clear Lake,Cerro Gordo,7777,10.8
+Clearfield,Taylor,363,1.26
+Cleghorn,Cherokee,240,0.34
+Clemons,Marshall,148,0.27
+Clermont,Fayette,632,1.23
+Clinton,Clinton,26885,35.15
+Clio,Wayne,80,0.75
+Clive,Polk,15447,7.59
+Clutier,Tama,213,0.76
+Coburg,Montgomery,42,0.29
+Coggon,Linn,658,0.62
+Coin,Page,193,0.8
+Colesburg,Delaware,404,0.29
+Colfax,Jasper,2093,1.79
+College Springs,Page,214,1.1
+Collins,Story,495,0.49
+Colo,Story,876,1.06
+Columbus City,Louisa,391,0.24
+Columbus Junction,Louisa,1899,2.19
+Colwell,Floyd,73,0.18
+Conesville,Muscatine,432,0.36
+Conrad,Grundy,1108,1.2
+Conway,Taylor,41,0.22
+Coon Rapids,Carroll,1305,1.78
+Coppock,Henry,47,0.23
+Coralville,Johnson,18907,12.01
+Corning,Adams,1635,1.58
+Correctionville,Woodbury,821,0.57
+Corwith,Hancock,309,1.48
+Corydon,Wayne,1585,1.39
+Cotter,Louisa,48,0.25
+Coulter,Franklin,281,2.45
+Council Bluffs,Pottawattamie,62230,40.97
+Craig,Plymouth,89,0.09
+Crawfordsville,Washington,264,0.35
+Crescent,Pottawattamie,617,1.09
+Cresco,Howard,3868,3.35
+Creston,Union,7834,5.19
+Cromwell,Union,107,0.29
+Crystal Lake,Hancock,250,0.25
+Cumberland,Cass,262,0.6
+Cumming,Warren,351,2.56
+Curlew,Palo Alto,58,0.76
+Cushing,Woodbury,220,0.32
+Cylinder,Palo Alto,88,0.07
+Dakota City,Humboldt,843,0.74
+Dallas Center,Dallas,1623,4.58
+Dana,Greene,71,0.28
+Danbury,Woodbury,348,0.4
+Danville,Des Moines,934,0.75
+Davenport,Scott,99685,62.95
+Davis City,Decatur,204,0.59
+Dawson,Dallas,131,0.48
+Dayton,Webster,837,0.85
+De Soto,Dallas,1050,1.52
+De Witt,Clinton,5322,5.98
+Decatur City,Decatur,197,0.4
+Decorah,Winneshiek,8127,7.01
+Dedham,Carroll,266,0.58
+Deep River,Poweshiek,279,0.43
+Defiance,Shelby,284,0.39
+Delaware,Delaware,159,0.8
+Delhi,Delaware,460,0.97
+Delmar,Clinton,525,0.76
+Deloit,Crawford,264,0.42
+Delphos,Ringgold,25,0.22
+Delta,Keokuk,328,0.93
+Denison,Crawford,8298,6.54
+Denver,Bremer,1780,1.64
+Derby,Lucas,115,0.26
+Des Moines ,Polk,203433,80.87
+Dexter,Dallas,611,2.35
+Diagonal,Ringgold,330,0.9
+Dickens,Clay,185,0.84
+Dike,Grundy,1209,1.39
+Dixon,Scott,247,0.15
+Dolliver,Emmet,66,0.36
+Donahue,Scott,346,0.35
+Donnellson,Lee,912,1.26
+Doon,Lyon,577,0.57
+Dougherty,Cerro Gordo,58,0.55
+Dow City,Crawford,510,0.32
+Dows,Wright,538,0.77
+Drakesville,Davis,184,0.25
+Dubuque,Dubuque,57637,29.97
+Dumont,Butler,637,1.76
+Duncombe,Webster,410,1.97
+Dundee,Delaware,174,0.36
+Dunkerton,Black Hawk,852,0.98
+Dunlap,Harrison,1042,1.13
+Durango,Dubuque,22,0.04
+Durant,Cedar,1832,1.15
+Dyersville,Dubuque,4058,5.63
+Dysart,Tama,1379,1.25
+Eagle Grove,Wright,3583,4.04
+Earlham,Madison,1450,0.97
+Earling,Shelby,437,0.6
+Earlville,Delaware,812,0.55
+Early,Sac,557,0.39
+East Peru,Madison,125,0.94
+Eddyville,Wapello,1024,1.18
+Edgewood,Delaware,864,0.85
+Elberon,Tama,196,0.65
+Eldon,Wapello,927,1.11
+Eldora,Hardin,2732,4.33
+Eldridge,Scott,5651,9.48
+Elgin,Fayette,683,0.66
+Elk Horn,Shelby,662,0.77
+Elk Run Heights,Black Hawk,1117,1.06
+Elkader,Clayton,1273,1.39
+Elkhart,Polk,683,1.58
+Elkport,Clayton,37,0.25
+Elliott,Montgomery,350,0.42
+Ellston,Ringgold,57,0.20
+Ellsworth,Hamilton,531,0.9
+Elma,Howard,546,1.29
+Ely,Linn,1776,1.44
+Emerson,Mills,438,0.26
+Emmetsburg,Palo Alto,3904,3.81
+Epworth,Dubuque,1860,1.56
+Essex,Page,798,1.5
+Estherville,Emmet,6360,5.32
+Evansdale,Black Hawk,4751,4.05
+Everly,Clay,603,1.09
+Exira,Audubon,840,1.02
+Exline,Appanoose,160,0.99
+Fairbank,Buchanan,1113,0.71
+Fairfax,Linn,2123,1.94
+Fairfield,Jefferson,9464,6.26
+Farley,Dubuque,1537,1.85
+Farmersburg,Clayton,302,0.4
+Farmington,Van Buren,664,0.47
+Farnhamville,Calhoun,371,0.65
+Farragut,Fremont,485,0.41
+Fayette,Fayette,1338,1.48
+Fenton,Kossuth,279,0.34
+Ferguson,Marshall,126,0.26
+Fertile,Worth,370,0.94
+Floris,Davis,138,0.48
+Floyd,Floyd,335,0.6
+Fonda,Pocahontas,631,1.05
+Fontanelle,Adair,672,0.96
+Forest City,Winnebago,4151,4.64
+Fort Atkinson,Winneshiek,349,0.31
+Fort Dodge,Webster,25206,16.05
+Fort Madison,Lee,11051,9.49
+Fostoria,Clay,231,0.47
+Franklin,Lee,143,0.15
+Fraser,Boone,102,0.83
+Fredericksburg,Chickasaw,931,0.86
+Frederika,Bremer,183,0.2
+Fredonia,Louisa,244,0.17
+Fremont,Mahaska,743,1.03
+Fruitland,Muscatine,977,1.8
+Galt,Wright,32,0.54
+Galva,Ida,434,0.71
+Garber,Clayton,88,0.23
+Garden Grove,Decatur,211,0.69
+Garnavillo,Clayton,745,1.02
+Garner,Hancock,3129,2.05
+Garrison,Benton,371,0.25
+Garwin,Tama,527,1.01
+Geneva,Franklin,165,0.42
+George,Lyon,1080,2.4
+Gibson,Keokuk,61,0.07
+Gilbert,Story,1082,0.91
+Gilbertville,Black Hawk,712,0.4
+Gillett Grove,Clay,49,0.19
+Gilman,Marshall,509,0.54
+Gilmore City,Humboldt,504,1.25
+Gladbrook,Tama,945,0.7
+Glenwood,Mills,5269,2.95
+Glidden,Carroll,1146,1.11
+Goldfield,Wright,635,1.19
+Goodell,Hancock,139,0.43
+Goose Lake,Clinton,240,0.32
+Gowrie,Webster,1037,1.45
+Graettinger,Palo Alto,844,0.77
+Graf,Dubuque,79,0.14
+Grafton,Worth,252,0.33
+Grand Junction,Greene,824,0.97
+Grand Mound,Clinton,642,1.82
+Grand River,Decatur,236,0.21
+Grandview,Louisa,556,0.23
+Granger,Dallas,1244,1.45
+Grant,Montgomery,92,0.74
+Granville,Sioux,312,0.29
+Gravity,Taylor,188,0.3
+Gray,Audubon,63,1.0
+Greeley,Delaware,256,0.37
+Greene,Butler,1130,1.14
+Greenfield,Adair,1982,1.81
+Greenville,Clay,75,0.18
+Grimes,Polk,8246,11.84
+Grinnell,Poweshiek,9218,5.6
+Griswold,Cass,1036,0.62
+Grundy Center,Grundy,2706,2.53
+Gruver,Emmet,94,0.13
+Guernsey,Poweshiek,63,0.18
+Guthrie Center,Guthrie,1569,2.47
+Guttenberg,Clayton,1919,2.09
+Halbur,Carroll,246,0.19
+Hamburg,Fremont,1187,1.1
+Hamilton,Marion,130,0.54
+Hampton,Franklin,4461,4.43
+Hancock,Pottawattamie,196,0.74
+Hanlontown,Worth,226,0.97
+Hansell,Franklin,98,0.23
+Harcourt,Webster,303,1.0
+Hardy,Humboldt,47,0.44
+Harlan,Shelby,5106,4.39
+Harper,Keokuk,114,0.09
+Harpers Ferry,Allamakee,328,0.63
+Harris,Osceola,170,0.79
+Hartford,Warren,771,1.03
+Hartley,O'Brien,1672,1.3
+Hartwick,Poweshiek,86,0.13
+Harvey,Marion,235,0.68
+Hastings,Mills,152,0.41
+Havelock,Pocahontas,138,0.57
+Haverhill,Marshall,173,0.13
+Hawarden,Sioux,2546,2.89
+Hawkeye,Fayette,449,0.67
+Hayesville,Keokuk,50,0.25
+Hazleton,Buchanan,823,0.75
+Hedrick,Keokuk,764,1.53
+Henderson,Mills,185,0.21
+Hepburn,Page,23,0.08
+Hiawatha,Linn,7024,4.23
+Hills,Johnson,703,0.63
+Hillsboro,Henry,180,0.51
+Hinton,Plymouth,928,0.69
+Holland,Grundy,282,0.25
+Holstein,Ida,1396,1.49
+Holy Cross,Dubuque,374,0.34
+Hopkinton,Delaware,628,0.62
+Hornick,Woodbury,225,0.25
+Hospers,Sioux,698,0.48
+Houghton,Lee,146,0.31
+Hubbard,Hardin,845,1.84
+Hudson,Black Hawk,2282,8.4
+Hull,Sioux,2175,1.2
+Humboldt,Humboldt,4690,4.64
+Humeston,Wayne,494,0.61
+Huxley,Story,3317,3.15
+Ida Grove,Ida,2142,2.1
+Imogene,Fremont,72,0.2
+Independence,Buchanan,5966,6.08
+Indianola,Warren,14782,11.25
+Inwood,Lyon,814,1.34
+Ionia,Chickasaw,291,0.55
+Iowa City,Johnson,67862,25.01
+Iowa Falls,Hardin,5238,5.36
+Ireton,Sioux,609,1.01
+Irwin,Shelby,341,0.6
+Jackson Junction,Winneshiek,58,5.99
+Jamaica,Guthrie,224,0.46
+Janesville,Bremer,930,1.44
+Jefferson,Greene,4345,5.97
+Jesup,Buchanan,2520,1.78
+Jewell Junction,Hamilton,1215,3.87
+Johnston,Polk,17278,17.16
+Joice,Worth,222,1.0
+Jolley,Calhoun,41,0.11
+Kalona,Washington,2363,2.04
+Kamrar,Hamilton,199,0.86
+Kanawha,Hancock,652,2.01
+Kellerton,Ringgold,315,0.66
+Kelley,Story,309,0.68
+Kellogg,Jasper,599,0.37
+Kensett,Worth,266,1.53
+Keokuk,Lee,10780,9.13
+Keomah Village,Mahaska,84,0.03
+Keosauqua,Van Buren,1006,1.45
+Keota,Keokuk,1009,0.63
+Keswick,Keokuk,246,0.43
+Keystone,Benton,622,0.45
+Kimballton,Audubon,322,0.77
+Kingsley,Plymouth,1411,1.61
+Kinross,Keokuk,73,0.2
+Kirkman,Shelby,64,0.28
+Kirkville,Wapello,167,0.56
+Kiron,Crawford,279,0.21
+Klemme,Hancock,507,0.51
+Knierim,Calhoun,60,1.01
+Knoxville,Marion,7313,4.63
+La Motte,Jackson,260,0.46
+La Porte City,Black Hawk,2285,2.55
+Lacona,Warren,361,0.36
+Ladora,Iowa,283,0.3
+Lake City,Calhoun,1727,4.81
+Lake Mills,Winnebago,2100,2.7
+Lake Park,Dickinson,1105,1.55
+Lake View,Sac,1142,2.11
+Lakeside,Buena Vista,596,0.18
+Lakota,Kossuth,255,0.19
+Lambs Grove,Jasper,172,0.1
+Lamoni,Decatur,2324,3.33
+Lamont,Buchanan,461,0.58
+Lanesboro,Carroll,121,0.74
+Lansing,Allamakee,999,1.08
+Larchwood,Lyon,866,0.99
+Larrabee,Cherokee,132,0.12
+Latimer,Franklin,507,2.4
+Laurel,Marshall,239,0.25
+Laurens,Pocahontas,1258,0.73
+Lawler,Chickasaw,439,0.88
+Lawton,Woodbury,908,0.71
+Le Claire,Scott,3765,4.67
+Le Grand,Marshall,938,1.04
+Le Mars,Plymouth,9826,8.96
+Le Roy,Decatur,15,0.33
+Ledyard,Kossuth,130,0.33
+Lehigh,Webster,416,2.09
+Leighton,Mahaska,162,0.1
+Leland,Winnebago,289,1.33
+Lenox,Taylor,1407,1.98
+Leon,Decatur,1977,3.17
+Lester,Lyon,294,1.82
+Letts,Louisa,384,0.59
+Lewis,Cass,433,0.5
+Libertyville,Jefferson,315,0.49
+Lidderdale,Carroll,180,2.42
+Lime Springs,Howard,505,1.02
+Lincoln,Tama,162,0.46
+Linden,Dallas,199,0.79
+Lineville,Wayne,217,0.9
+Linn Grove,Buena Vista,154,0.58
+Lisbon,Linn,2152,2.14
+Liscomb,Marshall,301,0.98
+Little Rock,Lyon,459,0.8
+Little Sioux,Harrison,170,0.37
+Livermore,Humboldt,384,0.7
+Lockridge,Jefferson,268,0.74
+Logan,Harrison,1534,1.0
+Lohrville,Calhoun,368,2.14
+Lone Rock,Kossuth,146,0.12
+Lone Tree,Johnson,1300,1.04
+Long Grove,Scott,808,1.02
+Lorimor,Union,360,0.38
+Lost Nation,Clinton,446,0.64
+Lovilia,Monroe,538,0.5
+Low Moor,Clinton,288,0.46
+Lowden,Cedar,789,1.02
+Lu Verne,Kossuth,261,2.26
+Luana,Clayton,269,1.05
+Lucas,Lucas,216,0.97
+Luther,Boone,122,0.77
+Luxemburg,Dubuque,240,0.46
+Luzerne,Benton,96,0.12
+Lynnville,Jasper,379,1.11
+Lytton,Sac,315,0.2
+Macedonia,Pottawattamie,246,0.33
+Macksburg,Madison,113,1.99
+Madrid,Boone,2543,1.19
+Magnolia,Harrison,183,0.57
+Maharishi Vedic City,Jefferson,259,3.36
+Malcom,Poweshiek,287,0.61
+Mallard,Palo Alto,274,0.41
+Maloy,Ringgold,29,0.62
+Malvern,Mills,1142,1.19
+Manchester,Delaware,5179,4.68
+Manilla,Crawford,776,1.03
+Manly,Worth,1323,1.47
+Manning,Carroll,1500,2.49
+Manson,Calhoun,1690,3.18
+Mapleton,Monona,1224,1.6
+Maquoketa,Jackson,6141,4.33
+Marathon,Buena Vista,237,0.74
+Marble Rock,Floyd,307,0.83
+Marcus,Cherokee,1117,1.54
+Marengo,Iowa,2528,2.08
+Marion,Linn,34768,16.05
+Marne,Cass,120,0.57
+Marquette,Clayton,375,1.74
+Marshalltown,Marshall,27552,19.28
+Martelle,Jones,255,0.34
+Martensdale,Warren,465,0.39
+Martinsburg,Keokuk,112,0.38
+Marysville,Marion,66,0.37
+Mason City,Cerro Gordo,28079,27.81
+Masonville,Delaware,127,0.33
+Massena,Cass,355,0.69
+Matlock,Sioux,87,0.37
+Maurice,Sioux,275,0.55
+Maxwell,Story,920,1.11
+Maynard,Fayette,518,0.99
+Maysville,Scott,176,0.27
+McCallsburg,Story,333,0.53
+McCausland,Scott,291,0.54
+McClelland,Pottawattamie,151,0.17
+McGregor,Clayton,871,1.3
+McIntire,Mitchell,122,1.01
+Mechanicsville,Cedar,1146,0.83
+Mediapolis,Des Moines,1560,1.2
+Melbourne,Marshall,830,0.57
+Melcher-Dallas,Marion,1288,1.0
+Melrose,Monroe,112,1.01
+Melvin,Osceola,214,0.18
+Menlo,Guthrie,353,0.47
+Meriden,Cherokee,159,0.11
+Merrill,Plymouth,755,0.57
+Meservey,Cerro Gordo,256,1.51
+Middletown,Des Moines,318,0.61
+Miles,Jackson,445,1.15
+Milford,Dickinson,2898,2.28
+Millersburg,Iowa,159,0.14
+Millerton,Wayne,45,0.21
+Millville,Clayton,30,0.07
+Milo,Warren,775,0.62
+Milton,Van Buren,443,2.51
+Minburn,Dallas,365,0.28
+Minden,Pottawattamie,599,0.42
+Mingo,Jasper,302,0.61
+Missouri Valley,Harrison,2838,3.13
+Mitchell,Mitchell,138,0.54
+Mitchellville,Polk,2254,2.33
+Modale,Harrison,283,1.05
+Mondamin,Harrison,402,0.45
+Monmouth,Jackson,153,0.56
+Monona,Clayton,1549,1.17
+Monroe,Jasper,1830,1.69
+Montezuma,Poweshiek,1462,2.48
+Monticello,Jones,3796,6.29
+Montour,Tama,249,0.46
+Montrose,Lee,898,1.12
+Moorhead,Monona,226,0.32
+Moorland,Webster,169,1.48
+Moravia,Appanoose,665,1.12
+Morley,Jones,115,0.09
+Morning Sun,Louisa,836,0.8
+Morrison,Grundy,94,0.1
+Moulton,Appanoose,605,1.01
+Mount Auburn,Benton,150,0.28
+Mount Ayr,Ringgold,1691,2.67
+Mount Pleasant,Henry,8668,8.51
+Mount Sterling,Van Buren,36,0.4
+Mount Union,Henry,107,0.11
+Mount Vernon,Linn,4506,3.49
+Moville,Woodbury,1618,0.89
+Murray,Clarke,756,0.79
+Muscatine,Muscatine,22886,17.3
+Mystic,Appanoose,425,2.92
+Nashua,Chickasaw,1663,2.88
+Nemaha,Sac,85,0.07
+Neola,Pottawattamie,842,0.46
+Nevada,Story,6798,5.06
+New Albin,Allamakee,522,0.24
+New Hampton,Chickasaw,3571,3.16
+New Hartford,Butler,516,0.5
+New Liberty,Scott,137,0.1
+New London,Henry,1897,1.01
+New Market,Taylor,415,0.44
+New Providence,Hardin,228,1.01
+New Sharon,Mahaska,1293,0.94
+New Vienna,Dubuque,407,0.44
+New Virginia,Warren,489,0.46
+Newell,Buena Vista,876,1.27
+Newhall,Benton,875,0.32
+Newton,Jasper,15254,11.19
+Nichols,Muscatine,374,0.23
+Nodaway,Adams,114,0.54
+Nora Springs,Floyd,1431,2.19
+North Buena Vista,Clayton,121,1.0
+North English,Iowa,1041,0.55
+North Liberty,Johnson,13374,7.83
+North Washington,Chickasaw,117,0.2
+Northboro,Page,58,0.26
+Northwood,Worth,1989,3.76
+Norwalk,Warren,8945,10.74
+Norway,Benton,545,0.45
+Numa,Appanoose,92,0.44
+Oakland,Pottawattamie,1527,1.42
+Oakland Acres,Jasper,156,0.28
+Oakville,Louisa,173,0.42
+Ocheyedan,Osceola,490,1.16
+Odebolt,Sac,1013,1.05
+Oelwein,Fayette,6415,4.81
+Ogden,Boone,2044,1.37
+Okoboji,Dickinson,807,1.85
+Olds,Henry,229,0.34
+Olin,Jones,698,1.03
+Ollie,Keokuk,215,0.99
+Onawa,Monona,2998,5.19
+Onslow,Jones,197,0.22
+Orange City,Sioux,6004,3.94
+Orchard,Mitchell,71,0.09
+Orient,Adair,408,0.45
+Orleans,Dickinson,608,1.08
+Osage,Mitchell,3619,2.24
+Osceola,Clarke,4929,6.48
+Oskaloosa,Mahaska,11463,7.43
+Ossian,Winneshiek,845,1.11
+Osterdock,Clayton,59,0.46
+Otho,Webster,542,0.46
+Oto,Woodbury,108,0.26
+Ottosen,Humboldt,55,0.57
+Ottumwa,Wapello,25023,15.86
+Owasa,Hardin,43,0.56
+Oxford,Johnson,807,0.91
+Oxford Junction,Jones,496,0.69
+Oyens,Plymouth,103,0.09
+Pacific Junction,Mills,471,0.76
+Packwood,Jefferson,204,0.76
+Palmer,Pocahontas,165,0.42
+Palo,Linn,1026,1.43
+Panama,Shelby,221,0.29
+Panora,Guthrie,1124,1.8
+Panorama Park,Scott,129,0.05
+Parkersburg,Butler,1870,1.42
+Parnell,Iowa,193,0.17
+Paton,Greene,236,0.56
+Patterson,Madison,130,0.2
+Paullina,O'Brien,1056,0.85
+Pella,Marion,10352,8.73
+Peosta,Dubuque,1377,1.97
+Perry,Dallas,7702,4.17
+Persia,Harrison,319,0.47
+Peterson,Clay,334,0.31
+Pierson,Woodbury,366,0.62
+Pilot Mound,Boone,173,0.98
+Pioneer,Humboldt,23,0.06
+Pisgah,Harrison,251,1.01
+Plainfield,Bremer,436,0.33
+Plano,Appanoose,70,0.56
+Pleasant Hill,Polk,8785,9.15
+Pleasant Plain,Jefferson,93,1.02
+Pleasanton,Decatur,49,0.35
+Pleasantville,Marion,1694,2.53
+Plover,Pocahontas,77,0.54
+Plymouth,Cerro Gordo,382,0.44
+Pocahontas,Pocahontas,1789,2.02
+Polk City,Polk,3418,4.32
+Pomeroy,Calhoun,662,2.04
+Popejoy,Franklin,79,0.74
+Portsmouth,Shelby,195,0.28
+Postville,Allamakee,2227,2.11
+Prairie City,Jasper,1680,1.2
+Prairieburg,Linn,178,0.46
+Prescott,Adams,257,0.4
+Preston,Jackson,1012,0.96
+Primghar,O'Brien,909,1.38
+Princeton,Scott,886,2.56
+Promise City,Wayne,111,0.19
+Protivin,Howard,283,0.48
+Pulaski,Davis,260,0.51
+Quasqueton,Buchanan,554,1.13
+Quimby,Cherokee,319,0.41
+Radcliffe,Hardin,545,1.0
+Rake,Winnebago,225,0.81
+Ralston,Carroll,79,1.99
+Randalia,Fayette,68,0.22
+Randall,Hamilton,173,0.41
+Randolph,Fremont,168,0.32
+Rathbun,Appanoose,89,0.22
+Raymond,Black Hawk,788,1.63
+Readlyn,Bremer,808,0.33
+Reasnor,Jasper,152,0.55
+Red Oak,Montgomery,5742,3.95
+Redding,Ringgold,82,0.99
+Redfield,Dallas,835,1.4
+Reinbeck,Grundy,1664,1.82
+Rembrandt,Buena Vista,203,0.2
+Remsen,Plymouth,1663,1.27
+Renwick,Humboldt,242,1.0
+Rhodes,Marshall,305,1.01
+Riceville,Mitchell,785,1.1
+Richland,Keokuk,584,0.77
+Rickardsville,Dubuque,182,0.9
+Ricketts,Crawford,145,0.26
+Ridgeway,Winneshiek,315,1.02
+Rinard,Calhoun,52,1.0
+Ringsted,Emmet,422,1.08
+Rippey,Greene,292,0.84
+Riverdale,Scott,405,1.84
+Riverside,Washington,993,1.72
+Riverton,Fremont,304,0.59
+Robins,Linn,3142,5.83
+Rock Falls,Cerro Gordo,155,0.21
+Rock Rapids,Lyon,2549,3.96
+Rock Valley,Sioux,3354,3.22
+Rockford,Floyd,860,0.63
+Rockwell,Cerro Gordo,1039,2.98
+Rockwell City,Calhoun,1709,4.21
+Rodman,Palo Alto,45,0.17
+Rodney,Monona,60,0.16
+Roland,Story,1284,1.08
+Rolfe,Pocahontas,584,1.05
+Rome,Henry,117,0.13
+Rose Hill,Mahaska,168,0.14
+Rossie,Clay,70,0.15
+Rowan,Wright,158,0.49
+Rowley,Buchanan,264,0.36
+Royal,Clay,446,0.3
+Rudd,Floyd,369,0.87
+Runnells,Polk,507,0.43
+Russell,Lucas,554,1.04
+Ruthven,Palo Alto,737,0.42
+Rutland,Humboldt,126,0.9
+Ryan,Delaware,361,0.43
+Sabula,Jackson,576,0.4
+Sac City,Sac,2220,4.86
+Sageville,Dubuque,122,0.69
+Salem,Henry,383,0.61
+Salix,Woodbury,363,1.52
+Sanborn,O'Brien,1404,1.9
+Sandyville,Warren,51,0.51
+Scarville,Winnebago,72,0.08
+Schaller,Sac,772,1.26
+Schleswig,Crawford,882,1.3
+Scranton,Greene,557,1.88
+Searsboro,Poweshiek,148,0.45
+Sergeant Bluff,Woodbury,4227,2.11
+Seymour,Wayne,701,2.35
+Shambaugh,Page,191,0.36
+Shannon City,Union,71,0.41
+Sharpsburg,Taylor,89,0.36
+Sheffield,Franklin,1172,5.55
+Shelby,Shelby,641,1.74
+Sheldahl,Story,319,0.84
+Sheldon,O'Brien,5188,4.5
+Shell Rock,Butler,1296,1.56
+Shellsburg,Benton,983,0.77
+Shenandoah,Page,5150,3.75
+Sherrill,Dubuque,177,0.13
+Shueyville,Johnson,577,1.79
+Sibley,Osceola,2798,1.68
+Sidney,Fremont,1138,1.38
+Sigourney,Keokuk,2059,2.18
+Silver City,Mills,245,0.22
+Sioux Center,Sioux,7048,6.31
+Sioux City,Woodbury,82684,57.35
+Sioux Rapids,Buena Vista,775,0.82
+Slater,Story,1489,1.26
+Sloan,Woodbury,973,0.62
+Smithland,Woodbury,224,0.37
+Soldier,Monona,174,0.29
+Solon,Johnson,2037,1.39
+Somers,Calhoun,113,0.35
+South English,Keokuk,212,0.3
+Spencer,Clay,11233,11.01
+Spillville,Winneshiek,367,0.42
+Spirit Lake,Dickinson,4840,4.63
+Spragueville,Jackson,81,0.67
+Spring Hill,Warren,63,0.12
+Springbrook,Jackson,144,0.6
+Springville,Linn,1074,0.72
+St. Ansgar,Mitchell,1107,1.03
+St. Anthony,Marshall,102,0.56
+St. Charles,Madison,653,0.54
+St. Donatus,Jackson,135,0.37
+St. Lucas,Fayette,143,0.27
+St. Marys,Warren,127,0.14
+St. Olaf,Clayton,108,0.24
+St. Paul,Lee,129,0.38
+Stacyville,Mitchell,494,0.51
+Stanhope,Hamilton,422,0.97
+Stanley,Buchanan,125,0.24
+Stanton,Montgomery,689,0.92
+Stanwood,Cedar,684,0.71
+State Center,Marshall,1468,0.98
+Steamboat Rock,Hardin,310,0.54
+Stockport,Van Buren,296,1.03
+Stockton,Muscatine,197,0.11
+Storm Lake,Buena Vista,10600,4.08
+Story City,Story,3431,2.8
+Stout,Grundy,224,0.3
+Stratford,Hamilton,743,1.91
+Strawberry Point,Clayton,1279,2.11
+Struble,Plymouth,78,0.16
+Stuart,Guthrie,1648,2.58
+Sully,Jasper,821,0.58
+Sumner,Bremer,2028,2.52
+Superior,Dickinson,130,0.41
+Sutherland,O'Brien,649,0.87
+Swaledale,Cerro Gordo,165,0.24
+Swan,Marion,72,0.64
+Swea City,Kossuth,536,0.74
+Swisher,Johnson,879,0.82
+Tabor,Fremont,1040,1.29
+Tama,Tama,2877,3.26
+Templeton,Carroll,362,0.43
+Tennant,Shelby,68,0.71
+Terril,Dickinson,367,0.55
+Thayer,Union,59,0.09
+Thompson,Winnebago,502,0.88
+Thor,Humboldt,186,1.0
+Thornburg,Keokuk,67,0.2
+Thornton,Cerro Gordo,422,1.25
+Thurman,Fremont,229,0.56
+Tiffin,Johnson,1947,4.13
+Tingley,Ringgold,184,0.68
+Tipton,Cedar,3221,2.09
+Titonka,Kossuth,476,0.28
+Toledo,Tama,2341,2.3
+Toronto,Clinton,124,0.19
+Traer,Tama,1703,1.18
+Treynor,Pottawattamie,919,0.58
+Tripoli,Bremer,1313,1.41
+Truesdale,Buena Vista,81,0.14
+Truro,Madison,485,0.97
+Turin,Monona,68,0.09
+Udell,Appanoose,47,0.32
+Underwood,Pottawattamie,917,0.46
+Union,Hardin,397,0.55
+Unionville,Appanoose,102,0.74
+University Heights,Johnson,1051,0.27
+University Park,Mahaska,487,0.77
+Urbana,Benton,1458,2.2
+Urbandale,Polk,39463,21.92
+Ute,Monona,374,0.39
+Vail,Crawford,436,0.57
+Valeria,Jasper,57,0.05
+Van Horne,Benton,682,0.63
+Van Meter,Dallas,1016,1.28
+Van Wert,Decatur,230,0.33
+Varina,Pocahontas,71,0.27
+Ventura,Cerro Gordo,717,1.77
+Victor,Iowa,893,0.48
+Villisca,Montgomery,1252,1.9
+Vincent,Webster,174,0.25
+Vining,Tama,50,0.57
+Vinton,Benton,5257,4.74
+Volga,Clayton,208,0.78
+Wadena,Fayette,262,0.74
+Wahpeton,Dickinson,341,1.21
+Walcott,Scott,1629,3.47
+Walford,Benton,1463,1.11
+Walker,Linn,791,0.76
+Wall Lake,Sac,819,1.23
+Wallingford,Emmet,197,0.97
+Walnut,Pottawattamie,785,2.15
+Wapello,Louisa,2067,1.29
+Washington,Washington,7266,4.92
+Washta,Cherokee,248,1.04
+Waterloo,Black Hawk,68406,61.39
+Waterville,Allamakee,144,0.43
+Waucoma,Fayette,257,0.43
+Waukee,Dallas,13790,12.97
+Waukon,Allamakee,3897,2.82
+Waverly,Bremer,9874,11.01
+Wayland,Henry,966,1.01
+Webb,Clay,141,0.5
+Webster,Keokuk,88,0.32
+Webster City,Hamilton,8070,8.86
+Weldon,Decatur,125,0.18
+Wellman,Washington,1408,1.14
+Wellsburg,Grundy,707,1.09
+Welton,Clinton,165,0.27
+Wesley,Kossuth,390,0.58
+West Bend,Palo Alto,785,0.89
+West Branch,Cedar,2322,3.19
+West Burlington,Des Moines,2968,4.95
+West Chester,Washington,146,0.25
+West Des Moines,Polk,56609,38.59
+West Liberty,Muscatine,3736,1.73
+West Okoboji,Dickinson,289,1.28
+West Point,Lee,966,0.61
+West Union,Fayette,2486,2.78
+Westfield,Plymouth,132,0.13
+Westgate,Fayette,211,0.36
+Westphalia,Shelby,127,0.1
+Westside,Crawford,299,1.47
+Westwood,Henry,112,0.15
+What Cheer,Keokuk,646,1.22
+Wheatland,Clinton,764,0.6
+Whiting,Monona,762,1.0
+Whittemore,Kossuth,504,0.42
+Whitten,Hardin,149,0.54
+Willey,Carroll,88,0.25
+Williams,Hamilton,344,0.87
+Williamsburg,Iowa,3068,3.74
+Williamson,Lucas,152,0.32
+Wilton,Muscatine,2802,1.95
+Windsor Heights,Polk,4860,1.41
+Winfield,Henry,1134,1.05
+Winterset,Madison,5190,4.58
+Winthrop,Buchanan,850,0.84
+Wiota,Cass,116,0.32
+Woden,Hancock,229,0.42
+Woodbine,Harrison,1459,1.28
+Woodburn,Clarke,202,0.64
+Woodward,Dallas,1024,2.46
+Woolstock,Wright,168,1.06
+Worthington,Dubuque,401,0.38
+Wyoming,Jones,515,0.51
+Yale,Guthrie,246,0.27
+Yetter,Calhoun,34,0.13
+Yorktown,Page,85,0.27
+Zearing,Story,554,0.75
+Zwingle,Dubuque,91,0.16

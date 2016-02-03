@@ -1,0 +1,31 @@
+\documentclass{article}
+
+\newlength\tindent
+\setlength{\tindent}{\parindent}
+\setlength{\parindent}{0pt}
+\renewcommand{\indent}{\hspace*{\tindent}}
+
+\begin{document}
+
+\title{Assessing the Impact of \textbf{I Like Bernie, But} on the Iowa Democratic Caucus}
+\author{Jacob Nisnevich}
+
+\maketitle
+
+\section*{Introduction}
+
+About five days ago my brother and I launched \textbf{ilikeberniebut.com} to address common criticisms of Bernie Sanders with well-sourced and concise rebuttals. The response we received was completely unexpected with thousands of shares and tweets on Facebook and Twitter respectively. By the time of the Iowa caucus on February 1, our website had been viewed over 1.5 million times nationwide, including over 20,000 times in the crucial state of Iowa.
+
+\section*{Proposal}
+
+In the aftermath of the Iowa caucus, I was eager to see what kind of impact my creation had on the vote in Iowa. I now have the tools, data, and knowledge to assess and visualize that impact. I have compiled three separate data-sets to do this:
+
+\begin{itemize}
+	\item \textbf{iowa-city-votes.csv} - Data on sessions and page views for each city in Iowa collected from and formated by Google Analytics
+	\item \textbf{precinct-data.csv} - Data on Iowa state delegate allocation for each county in Iowa scraped from the Iowa Democratic Party results page via a Ruby script
+	\item \textbf{iowa-cities.csv} - Data on Iowa cities---containing population, county, and size---scraped from Wikipidia via a Ruby script
+\end{itemize}
+
+This data certainly meets the familiarity requirement as I was personally responsible for it existing in the first place, which also contributes to meeting the acquisition effort and novelty requirements. Furthermore, I feel the data analysis will be difficult, novel, and sufficiently relevant to the course simply due to the challenge of dealing with the many confounding variables that exist. Additionally, due to the wide range of variables in each of the data-sets, there is sufficient room for interesting and unique analysis to take place.
+
+\end{document}

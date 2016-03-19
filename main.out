@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Data Acquisition}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Google Analytics Data}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Iowa Caucus Precinct Results}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Iowa Cities List from Wikipedia}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Iowa Demographics Data}{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Analysis}{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Normalizing Session Data}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Covariance Principal Component Analysis}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 10
+\BOOKMARK [1][-]{section.1}{Precinct Data to CSV}{}% 11
+\BOOKMARK [1][-]{section.2}{Get Iowa Cities}{}% 12
+\BOOKMARK [1][-]{section.3}{Cities to Counties}{}% 13
+\BOOKMARK [1][-]{section.4}{Complete Dataset}{}% 14
+\BOOKMARK [1][-]{section.5}{MATLAB Correlation Matrix}{}% 15
+\BOOKMARK [1][-]{section.6}{MATLAB Covariance Principal Component Analysis}{}% 16

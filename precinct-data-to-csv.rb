@@ -3,6 +3,7 @@ require 'json'
 precinct_file = File.read('precinct-data.json')
 precinct_hash = JSON.parse(precinct_file)["data"]["CountyResults"]
 
+# Setup the column headers
 p "County,ClintonDelegates,SandersDelegeates,O'MalleyDelegates,TotalDelegates"
 
 precinct_hash.each do |county_result|
@@ -14,6 +15,8 @@ precinct_hash.each do |county_result|
 
   county_result["Candidates"].each do |candidate_entry|
     candidate = candidate_entry["Candidate"]
+    
+    # If county result is nil, set vote count to 0
     if candidate["CandidateId"] == 24
       clinton_delegates = candidate_entry["Result"] || 0
     elsif candidate["CandidateId"] == 26
